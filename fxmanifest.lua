@@ -10,3 +10,7 @@ shared_scripts {
 client_scripts {
     'blips.lua',
 }
+
+dependencies {
+    'es_extended',  
+}
